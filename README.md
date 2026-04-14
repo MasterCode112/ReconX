@@ -31,7 +31,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/reconx.git
+git clone https://github.com/mastercode112/reconx.git
 cd reconx
 chmod +x reconx.sh
 
