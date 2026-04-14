@@ -1,7 +1,7 @@
 # ReconX 🔍
 
 > **Modern Automated Recon & Enumeration Framework**  
-> A complete rebuild and upgrade of nmapAutomator, faster, smarter, and packed with new capabilities.
+> A complete rebuild and upgrade of nmapAutomator — faster, smarter, and packed with new capabilities.
 
 ---
 
@@ -31,7 +31,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/mastercode112/reconx.git
+git clone https://github.com/YOUR_USERNAME/reconx.git
 cd reconx
 chmod +x reconx.sh
 
