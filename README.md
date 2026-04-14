@@ -1,7 +1,7 @@
 # ReconX 🔍
 
 > **Modern Automated Recon & Enumeration Framework**  
-> A complete rebuild and upgrade of nmapAutomator — faster, smarter, and packed with new capabilities.
+> A complete rebuild and upgrade of nmapAutomator, faster, smarter, and packed with new capabilities.
 
 ---
 
